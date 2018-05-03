@@ -16,4 +16,6 @@ copied from network
 # 项目截图
 ![Alt text](/doc/game1.png)
 
-![Alt text](/doc/game2.png)
+![Alt text](/doc/game2.jpg)
+
+![Alt text](/doc/game3.png)
