@@ -13,6 +13,7 @@ copied from network
 
 # 启动类为com.mypro.main.AwtMainComponet
 
+<<<<<<< HEAD
 # 项目截图
 ![Alt text](/doc/game1.png)
 
