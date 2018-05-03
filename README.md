@@ -12,3 +12,5 @@ copied from network
 * 分数：一共有三种分数，金币，高分，百分
 
 # 启动类为com.mypro.main.AwtMainComponet
+
+![Alt text](/bg/start.jpg)
